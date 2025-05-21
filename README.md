@@ -5,6 +5,12 @@ Esta aplicación móvil desarrollada en Flutter permite calcular el Índice de M
 
 ---
 
+## 👁️ Vista App
+<p align="center">
+  <img src="input_page.png" width="200"/>
+  <img src="results_page.png" width="200"/>
+</p>
+
 ## 🚀 Funcionalidades principales
 - Selección del género (masculino o femenino).
 - Ajuste de la altura mediante un slider interactivo.
